@@ -1,0 +1,7 @@
+HelperClasses\InputLineFilters\StringLineChecker.class
+HelperClasses\InputLineFilters\IntLineChecker.class
+HelperClasses\Сomparers\StringComparison.class
+HelperClasses\InputLineFilters\SearchLineErrors.class
+HelperClasses\Сomparers\IntegerComparison.class
+HelperClasses\Сomparers\MyComparison.class
+Solution.class
