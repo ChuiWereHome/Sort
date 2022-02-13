@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NikolayZerkalov" />
+        <module name="Sort" />
         <module name="NikolayZerkalovMaven" />
         <module name="ShiftTest_NikolayZerkalovMaven" />
+        <module name="NikolayZerkalov" />
       </profile>
     </annotationProcessing>
   </component>
